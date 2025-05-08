@@ -20,13 +20,13 @@ Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le
 # Milestone 1 – Cancellazione della view di default
 	•	Vai in resources/views ed elimina il file welcome.blade.php.
 
-# Milestone 2 – Creazione della nuova homepage
-	•	Crea un nuovo file chiamato home.blade.php in resources/views.
-	•	All’interno di home.blade.php, scrivi un semplice Hello World.
+# Milestone 2 – Creazione della nuova homepage√
+	•	Crea un nuovo file chiamato home.blade.php in resources/views.√
+	•	All’interno di home.blade.php, scrivi un semplice Hello World.√
 
-# Milestone 3 – Rotta per la homepage
-	•	Apri il file routes/web.php.
-	•	Crea una rotta per / che ritorni la view home.blade.php.
+# Milestone 3 – Rotta per la homepage√
+	•	Apri il file routes/web.php.√
+	•	Crea una rotta per / che ritorni la view home.blade.php.√
 
 
 # Milestone 4 – Passaggio di dati alla view
