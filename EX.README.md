@@ -29,15 +29,15 @@ Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le
 	•	Crea una rotta per / che ritorni la view home.blade.php.√
 
 
-# Milestone 4 – Passaggio di dati alla view
-	•	Modifica la rotta per passare dei dati (es: nome o messaggio).
-	•	In home.blade.php, visualizza il dato dinamicamente con Blade:
+# Milestone 4 – Passaggio di dati alla view√
+	•	Modifica la rotta per passare dei dati (es: nome o messaggio).√
+	•	In home.blade.php, visualizza il dato dinamicamente con Blade:√
 
 # Milestone 5 (Bonus) – Aggiunta di più pagine
-	•	Crea almeno altre due views (es: about.blade.php, contact.blade.php) in resources/views.
-	•	Aggiungi le rotte corrispondenti in web.php:
+	•	Crea almeno altre due views (es: about.blade.php, contact.blade.php) in resources/views.√
+	•	Aggiungi le rotte corrispondenti in web.php:√
 
 # Milestone 6 (Bonus) – Header con menu di navigazione
-	•	In ogni view, aggiungi un header comune (può essere direttamente dentro ogni file o tramite @include).
+	•	In ogni view, aggiungi un header comune (può essere direttamente dentro ogni file o tramite @include).√
 
 
