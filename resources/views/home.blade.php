@@ -20,7 +20,7 @@ var_dump($todayLessons);
 
 <body class="bg-light">
 
-    <!-- componente header -->
+    <!-- componente header con Dot Notation-->
     @include('partials.header')
 
     <main class="container">
