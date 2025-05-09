@@ -14,6 +14,7 @@ __" php artisan serve oppure php -S localhost:8000 -t public "__
 
 A questo punto, iniziamo a prendere confidenza con le rotte e le views: cancelliamo la view welcome.blade.php e creiamo una nostra homepage. Facciamo quindi sì che la rotta / visualizzi home.blade.php.
 Inizialmente stampiamo un "Hello World", poi passiamo dei dati alla view in modo da visualizzarli dinamicamente con Blade.
+
 # Bonus 
 Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le pagine, utilizzando la funzione route()
 
@@ -28,7 +29,6 @@ Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le
 	•	Apri il file routes/web.php.√
 	•	Crea una rotta per / che ritorni la view home.blade.php.√
 
-
 # Milestone 4 – Passaggio di dati alla view√
 	•	Modifica la rotta per passare dei dati (es: nome o messaggio).√
 	•	In home.blade.php, visualizza il dato dinamicamente con Blade:√
@@ -37,7 +37,7 @@ Creiamo più di una pagina e visualizziamo un header menu con i link di tutte le
 	•	Crea almeno altre due views (es: about.blade.php, contact.blade.php) in resources/views.√
 	•	Aggiungi le rotte corrispondenti in web.php:√
 
-# Milestone 6 (Bonus) – Header con menu di navigazione
+# Milestone 6 (Bonus) – Header con menu di navigazione√
 	•	In ogni view, aggiungi un header comune (può essere direttamente dentro ogni file o tramite @include).√
 
 

@@ -8,13 +8,13 @@
                 <nav>
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                            <a class="nav-link text-dark fw-medium" href="/">Home</a>
+                            <a class="nav-link text-dark fw-medium" href="{{ route('home') }}">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fw-medium" href="/about">About</a>
+                            <a class="nav-link text-dark fw-medium" href="{{ route('about') }}">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fw-medium" href="/contact">Contact</a>
+                            <a class="nav-link text-dark fw-medium" href="{{ route('contact') }}">Contact</a>
                         </li>
                     </ul>
                 </nav>
